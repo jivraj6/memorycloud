@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
       // Routes map
       routes: {
         '/': (context) => LoginScreen(),
-        '/gallery': (context) => GalleryScreen(),
       },
 
       // Optional: unknown route fallback
